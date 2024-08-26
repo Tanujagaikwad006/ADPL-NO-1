@@ -4,9 +4,14 @@ Write a code for addition of 2 numbers?
 int main ()
 { 
 int number 1, number 2,sum;
+int number 1,nunber2, sub;
 cout<<"enter tow numbers";
 cin>> num 1 >>num 2;
 sum= num1 +num2 ;
 cout <<"The sum of two num"<<num1<< num2<< endl;
 return 0; 
+}
+subtract= num1-num2
+cout<<"the of sub<<num1<<num2<<endl;
+return0;
 }
